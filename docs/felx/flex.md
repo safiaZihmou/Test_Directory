@@ -9,7 +9,7 @@ Manage layout and alignment of the Components contained in the flex, using the f
 
 - **align** :  change the alignment of flex items .
 You can also use the following icons.
-![](flexAlignement.PNG)
+![](flexAlignment.PNG)
 
 - **justify** :
 change the alignment of the flex components on the main axis. 
