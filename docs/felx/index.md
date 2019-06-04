@@ -13,8 +13,13 @@ You can also use the following icons.
 
 - **justify** :
 change the alignment of the flex components on the main axis. 
-![](flexJustify.png)
-
+   - **start :** :
+   - **end :** :
+   - **center :** :
+   - **between :** :
+   - **arround :** :
+   
+   
 - **wrap** :
      - **nowrap :**  all flex components will be on one line.
      - **wrap :** flex components will wrap onto multiple lines , from top tobottom.
