@@ -16,6 +16,6 @@ change the alignment of the flex components on the main axis.
 ![](flexJustify.png)
 
 - **wrap** :
-     - **nowrap :**  all flex items will be on one line.
-     - **wrap :** flex items will wrap onto multiple lines , from top tobottom.
+     - **nowrap :**  all flex components will be on one line.
+     - **wrap :** flex components will wrap onto multiple lines , from top tobottom.
      
