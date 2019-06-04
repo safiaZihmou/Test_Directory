@@ -13,11 +13,11 @@ You can also use the following icons.
 
 - **justify** :
 change the alignment of the flex components on the main axis. 
-   - **start :** :
-   - **end :** :
-   - **center :** :
-   - **between :** :
-   - **arround :** :
+   - **start :** The elements are aligned at the beginning of the container along the block axis.
+   - **end :**  The elements are aligned at the end of the container along the block axis
+   - **center :** The elements are centered on the bulk axis of the container.
+   - **between :** Elements spaced evenly along main axis
+   - **arround :** Items are evenly distributed in the line with equal space around them
    
    
 - **wrap** :
