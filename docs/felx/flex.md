@@ -5,10 +5,11 @@ Manage layout and alignment of the Components contained in the flex, using the f
 ### Properties :
 - **direction** : set the direction of flex components ( vertical / horizontal direction ) 
    Can also use the following icons to set the direction  .
-  ![GitHub Logo](flexDirection.PNG)
+  ![](flexDirection.PNG)
 
 - **align** :  change the alignment of flex items .
-You can also use the following icons  ()
+You can also use the following icons.
+![](flexAlignement.PNG)
 
 - **justify** :
 change the alignment of the flex components on the main axis. 
