@@ -13,7 +13,7 @@ You can also use the following icons.
 
 - **justify** :
 change the alignment of the flex components on the main axis. 
-![](flexJustify.PNG)
+![](flexJustify.png)
 
 - **wrap** :
      - **nowrap :**  all flex items will be on one line.
